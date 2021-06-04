@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar(PK)</h1>
-<h3 align="center">A passionate Front End Engineer</h3>
+<div align="center"> <img src="https://i.ibb.co/tp7txbY/IMG-20210305-122631-451.jpg" alt="pk" width="100" height="100"/> </div>
+<h3 align="center">Front End Engineer</h3>
 
 
 - 💬 Ask me about **React, CSS, HTML, JS, Rasa, Node**
